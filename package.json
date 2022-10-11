@@ -1,0 +1,13 @@
+{
+  "name": "cy_10_tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  },
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.23.7",
+    "prettier": "^2.7.1"
+  }
+}
